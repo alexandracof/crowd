@@ -1,0 +1,7 @@
+{
+    "description": "Project Example",
+    "keywords": ["basic", "project example"],
+    "require": {
+        "php": "7.*"
+    }
+}
